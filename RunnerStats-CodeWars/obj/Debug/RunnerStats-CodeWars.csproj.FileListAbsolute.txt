@@ -1,0 +1,1 @@
+c:\users\candace\documents\visual studio 2013\Projects\RunnerStats-CodeWars\RunnerStats-CodeWars\bin\Debug\RunnerStats-CodeWars.exe.config

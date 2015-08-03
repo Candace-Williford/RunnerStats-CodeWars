@@ -1,0 +1,7 @@
+c:\users\candace\documents\visual studio 2013\Projects\RunnerStats-CodeWars\RunnerStatsTests\bin\Debug\RunnerStatsTests.dll
+c:\users\candace\documents\visual studio 2013\Projects\RunnerStats-CodeWars\RunnerStatsTests\bin\Debug\RunnerStatsTests.pdb
+c:\users\candace\documents\visual studio 2013\Projects\RunnerStats-CodeWars\RunnerStatsTests\bin\Debug\RunnerStats-CodeWars.exe
+c:\users\candace\documents\visual studio 2013\Projects\RunnerStats-CodeWars\RunnerStatsTests\bin\Debug\RunnerStats-CodeWars.pdb
+c:\users\candace\documents\visual studio 2013\Projects\RunnerStats-CodeWars\RunnerStatsTests\obj\Debug\RunnerStatsTests.csprojResolveAssemblyReference.cache
+c:\users\candace\documents\visual studio 2013\Projects\RunnerStats-CodeWars\RunnerStatsTests\obj\Debug\RunnerStatsTests.dll
+c:\users\candace\documents\visual studio 2013\Projects\RunnerStats-CodeWars\RunnerStatsTests\obj\Debug\RunnerStatsTests.pdb
